@@ -4,7 +4,10 @@
   </a>
 </p>
 
-<h1 align="center">Practical AI for real operations</h1>
+<h1 align="center">
+  AI automation for<br />
+  Manufacturing Supply Chains.
+</h1>
 
 <p align="center">
   Kenzai Intelligence designs and deploys governed AI automation for manufacturing and supply-chain teams.
