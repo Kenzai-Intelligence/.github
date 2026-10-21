@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 206.567 211.078" role="img" aria-labelledby="title desc" shape-rendering="geometricPrecision">
+  <title id="title">Kenzai K mark</title>
+  <desc id="desc">The geometric K mark in indigo, blue, and gold.</desc>
+  <metadata>Standalone vector mark. ViewBox 206.567 by 211.078. Outside clear space 28. Horizontal construction scale 1.050. Diagonal angle 49.970 degrees.</metadata>
+  <g aria-hidden="true" transform="translate(28 28) scale(0.211470170 0.201400162) translate(-185 -115)">
+    <path fill="#07194D" d="M203 115H377Q395 115 395 133V460H185V133Q185 115 203 115Z"/>
+    <path fill="#07194D" d="M185 540H395V867Q395 885 377 885H203Q185 885 185 867Z"/>
+    <path fill="#0865EB" d="M350 460 626 115H856C883 115 897 148 878 167L626 460Z"/>
+    <path fill="#0865EB" d="M350 540H626L878 833C897 853 883 885 856 885H626Z"/>
+    <rect x="185" y="460" width="441" height="80" fill="#FFB000"/>
+  </g>
+</svg>
