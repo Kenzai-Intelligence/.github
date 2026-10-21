@@ -9,8 +9,7 @@
 </p>
 
 <h1 align="center">
-  The intelligence layer<br />
-  for your business.
+  Decisions Layer
 </h1>
 
 <p align="center">
